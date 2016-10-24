@@ -45,3 +45,7 @@ fonts-chinese-3.02-12.el5.noarch.rpm
     
     
     
+    pacman -S wqy-microhei
+    
+    
+    
